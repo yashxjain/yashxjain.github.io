@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.acc94a1b.css",
-    "main.js": "/static/js/main.0e0f7c46.js",
+    "main.js": "/static/js/main.ccdfe967.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/project-2.png": "/static/media/project-2.cad680f5f8ac34e9e431.png",
@@ -12,18 +12,18 @@
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/Project-4.jpeg": "/static/media/Project-4.ccb668c2e1aa37055ba5.jpeg",
-    "static/media/Yash-Jain-FlowCV-Resume-20231215.pdf": "/static/media/Yash-Jain-FlowCV-Resume-20231215.712436378cb54c824e2a.pdf",
+    "static/media/YASH JAIN (3).pdf": "/static/media/YASH JAIN (3).9c91f2877a936048776c.pdf",
     "static/media/Y-removebg-preview.png": "/static/media/Y-removebg-preview.df5b5af2719e4117e884.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.acc94a1b.css.map": "/static/css/main.acc94a1b.css.map",
-    "main.0e0f7c46.js.map": "/static/js/main.0e0f7c46.js.map",
+    "main.ccdfe967.js.map": "/static/js/main.ccdfe967.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.acc94a1b.css",
-    "static/js/main.0e0f7c46.js"
+    "static/js/main.ccdfe967.js"
   ]
 }
