@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/static/css/main.acc94a1b.css",
-    "main.js": "/static/js/main.e1cc4375.js",
+    "main.js": "/static/js/main.f84bf8c4.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Liceria & Co. (1).gif": "/static/media/Liceria & Co. (1).893611667339f04c7aa7.gif",
     "static/media/project-2.png": "/static/media/project-2.cad680f5f8ac34e9e431.png",
     "static/media/project-1.png": "/static/media/project-1.faf0201ac195185d5575.png",
+    "static/media/yash.jpg": "/static/media/yash.758b8c6fd70799af619e.jpg",
     "static/media/Project-3.png": "/static/media/Project-3.bf9917825d699517637e.png",
-    "static/media/YASH JAIN Resume.pdf": "/static/media/YASH JAIN Resume.dbab442963543d7a3298.pdf",
+    "static/media/Yash Jain Resume (1).pdf": "/static/media/Yash Jain Resume (1).baba0b19de33a0dc7715.pdf",
     "static/media/Project-5.png": "/static/media/Project-5.217c68820451df33fc74.png",
-    "static/media/Yash-1.jpeg": "/static/media/Yash-1.dfd9daa00c67fe8c54a9.jpeg",
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/Project-4.jpeg": "/static/media/Project-4.ccb668c2e1aa37055ba5.jpeg",
-    "static/media/Y-removebg-preview.png": "/static/media/Y-removebg-preview.df5b5af2719e4117e884.png",
     "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.acc94a1b.css.map": "/static/css/main.acc94a1b.css.map",
-    "main.e1cc4375.js.map": "/static/js/main.e1cc4375.js.map",
+    "main.f84bf8c4.js.map": "/static/js/main.f84bf8c4.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.acc94a1b.css",
-    "static/js/main.e1cc4375.js"
+    "static/js/main.f84bf8c4.js"
   ]
 }
